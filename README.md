@@ -1,1 +1,1 @@
-# Academic-Resume
+# AcademicResume
