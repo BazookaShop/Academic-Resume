@@ -1,0 +1,48 @@
+body{
+    background-color: black
+    }
+    
+    @font-face{
+        font-family: "future";
+        src: url("Outrun\ future\ Bold\ Italic.otf");
+    }
+
+    h1{
+        color: white;
+        font-family: "future";
+        text-align: center;
+        font-size: 50px;
+        margin: 0;
+    }
+
+    h2{ 
+        font-family: "future";
+        text-align: center;
+        margin:0;
+    }
+
+    .product1-space{
+        padding:40px;
+        text-align: center;
+    }
+
+    .resume1-card{
+        background-color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        text-align: center;
+        width: 180%;
+        border: 5px solid white;
+        border-radius: 10px;
+        margin: 0px 10px 0px;
+        transition: 0.3;
+        display: inline-block
+    }
+
+    .resume1-info{
+        width: 180%;
+        height: 100%;
+        text-align: center;
+        transition: 0.8s;
+        display: inline-block;
+    }
